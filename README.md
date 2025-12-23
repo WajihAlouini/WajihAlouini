@@ -39,11 +39,13 @@ Currently seeking a 6-month end-of-studies internship in backend development.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WajihAlouini&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
+## Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WajihAlouini&show_icons=true&theme=radical&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=WajihAlouini&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WajihAlouini&layout=compact&theme=radical&hide_border=true&hide=html,css,scss&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WajihAlouini&layout=compact&theme=radical&hide_border=true&hide=html,css,scss)
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=WajihAlouini&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)
 
