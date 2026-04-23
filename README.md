@@ -2,7 +2,7 @@
 
 Software Engineering student at [ESPRIT](https://esprit.tn/) specializing in Software Architecture.
 
-Currently seeking a 6-month end-of-studies internship in backend development.
+Currently doing my Final study project as a Full stack intern @ Enova Robotics .
 
 ## Tech Stack
 
